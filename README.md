@@ -1,2 +1,2 @@
 # Excel
-Simulador para Investimentos de Renda Fixa
+Simulador para Investimentos em Renda Fixa
